@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f267d4620ff10994e9b7796e999fb7b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - input: {fileID: 11400000, guid: 346f9bce3f97f8941beaf128191d4c4f, type: 2}
+  - outputBurned: {fileID: 11400000, guid: 09debd17e20415d4494f8dbf995cf66d, type: 2}
+  - outputWellCooked: {fileID: 11400000, guid: cc9d56606dbf2f8459a32f03cc2e1ca5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
